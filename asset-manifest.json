@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.f4bdefe6.css",
-    "main.js": "/static/js/main.c424bb27.js",
-    "static/media/python.png": "/static/media/python.40f1d1b14bc2113b7b05.png",
-    "static/media/go.png": "/static/media/go.26d6d02c30e0ab3dce15.png",
-    "static/media/react.svg": "/static/media/react.7b78f5c3c3acf6dd7722fd9c2f83c963.svg",
-    "static/media/cpp.png": "/static/media/cpp.24a8f93854ab092f17a7.png",
-    "static/media/php.png": "/static/media/php.c67d24b47808dc6611ed.png",
-    "static/media/java.png": "/static/media/java.f5dd86c3ef6ef3f85acf.png",
-    "static/media/javascript.png": "/static/media/javascript.9a8660c0ba114bdba499.png",
-    "static/media/html.png": "/static/media/html.6e5363d5de526dec4f8a.png",
-    "static/media/css.png": "/static/media/css.f7a3400b7f8ab145bb65.png",
-    "index.html": "/index.html",
-    "main.f4bdefe6.css.map": "/static/css/main.f4bdefe6.css.map",
-    "main.c424bb27.js.map": "/static/js/main.c424bb27.js.map"
+    "main.css": "/language-cards-bootstrap/static/css/main.f4bdefe6.css",
+    "main.js": "/language-cards-bootstrap/static/js/main.4969f884.js",
+    "static/media/python.png": "/language-cards-bootstrap/static/media/python.40f1d1b14bc2113b7b05.png",
+    "static/media/go.png": "/language-cards-bootstrap/static/media/go.26d6d02c30e0ab3dce15.png",
+    "static/media/react.svg": "/language-cards-bootstrap/static/media/react.7b78f5c3c3acf6dd7722fd9c2f83c963.svg",
+    "static/media/cpp.png": "/language-cards-bootstrap/static/media/cpp.24a8f93854ab092f17a7.png",
+    "static/media/php.png": "/language-cards-bootstrap/static/media/php.c67d24b47808dc6611ed.png",
+    "static/media/java.png": "/language-cards-bootstrap/static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/javascript.png": "/language-cards-bootstrap/static/media/javascript.9a8660c0ba114bdba499.png",
+    "static/media/html.png": "/language-cards-bootstrap/static/media/html.6e5363d5de526dec4f8a.png",
+    "static/media/css.png": "/language-cards-bootstrap/static/media/css.f7a3400b7f8ab145bb65.png",
+    "index.html": "/language-cards-bootstrap/index.html",
+    "main.f4bdefe6.css.map": "/language-cards-bootstrap/static/css/main.f4bdefe6.css.map",
+    "main.4969f884.js.map": "/language-cards-bootstrap/static/js/main.4969f884.js.map"
   },
   "entrypoints": [
     "static/css/main.f4bdefe6.css",
-    "static/js/main.c424bb27.js"
+    "static/js/main.4969f884.js"
   ]
 }
