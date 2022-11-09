@@ -1,8 +1,6 @@
-<p>Clarusway<img src="./assets/cw.png" alt="clarusway" width="30px" height="auto" align="right" /></p>
 
-<br>
 
-# Project-002: Language Cards (RP-02)
+# Project: Language Cards 
 
 ## Description
 
@@ -40,7 +38,7 @@ SOLUTION
 
 ## Expected Outcome
 
-![Project 003 Snapshot](language-cards.gif)
+![Project Snapshot](language-cards.gif)
 
 ## Objective
 
@@ -72,8 +70,3 @@ Build a Languages Cards App using ReactJS.
 
 - Step 5: Add project gif to your project and README.md file.
 
-## Notes
-
-- You can add additional functionalities to your app.
-
-**<p align="center">&#9786; Happy Coding &#9997;</p>**
